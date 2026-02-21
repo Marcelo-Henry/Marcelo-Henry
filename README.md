@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-- 🔥 Crio sistemas completos do zero (frontend + backend + arquitetura)
+- 🔥 Crio sistemas completos do zero apenas usando IA
 - 🤖 Trabalho com LLMs locais, agentes e MCP Servers
 - 🧩 Organizo projetos com múltiplos agents (dev, tester, designer, etc.)
 - 🛠 Gosto de entender como as coisas funcionam por dentro
