@@ -20,8 +20,3 @@ Focado em criar ferramentas de alto impacto e integrar modelos de linguagem avan
   <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Henry&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Henry&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
 </p>
-
----
-
-### 🤝 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcelo-Henry)
