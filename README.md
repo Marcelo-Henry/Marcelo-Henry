@@ -11,12 +11,6 @@
 
 **Full Stack Developer | AI Systems | CLI Specialist**
 
-Focado em criar ferramentas de alto impacto e integrar modelos de linguagem avançados. Especialista em automação e desenvolvimento de pacotes NPM.
+Focused on creating high-impact tools and integrate advanced language models. Specialist in autonomous processes and development in NPM packages.
 
 ---
-
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Henry&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Henry&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-</p>
